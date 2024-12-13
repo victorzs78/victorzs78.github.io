@@ -6,7 +6,7 @@
 
 Code reviews are critical for maintaining code quality, fostering collaboration, and reducing technical debt. They allow developers to identify bugs, inefficiencies, or deviations from best practices early, preventing costly fixes later. Code reviews also promote knowledge sharing among team members, improving collective expertise and ensuring consistent adherence to coding standards. Additionally, they provide a platform for mentoring and constructive feedback, fostering a culture of continuous learning and accountability. Ultimately, this process enhances the overall reliability, maintainability, and security of the codebase, contributing to the long-term success of software projects. 
 
-<code>You can watch the code review <a href="https://github.com/victorzs78/victorzs78.github.io/new/main">here</a>.</code>
+<code>You can watch the code review <a href="https://www.youtube.com/watch?v=N_TAyv-Cbd4">here</a>.</code>
 
 #### Project 1: Software Engineering and Design
 
