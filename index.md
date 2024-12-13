@@ -29,7 +29,7 @@ This project is a Text Based Game.
   </a>
 </center>
   
-<code>See the artifact's report and code <a href="https://github.com/victorzs78/victorzs78.github.io/new/main">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/victorzs78/ePortfolio/tree/5e4915780a6533eabcc211571e217a7896063829/Enhancement%20Two%3A%20Algorithms%20and%20Data%20Structure">here</a>.</code>
 
 #### Project 3: Databases
 
@@ -39,5 +39,5 @@ This project is a Text Based Game.
   </a>
 </center>
 
-  <code>See the artifact's report and code <b><a href="https://github.com/victorzs78/victorzs78.github.io/new/main" title="Click me to view the artifact report">here</a></b>.</code>
+  <code>See the artifact's report and code <b><a href="https://github.com/victorzs78/ePortfolio/tree/main/Enhancement%20Three%3A%20Databases" title="Click me to view the artifact report">here</a></b>.</code>
 
