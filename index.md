@@ -8,6 +8,8 @@ Code reviews are critical for maintaining code quality, fostering collaboration,
 
 <code>You can watch the code review <a href="https://www.youtube.com/watch?v=N_TAyv-Cbd4">here</a>.</code>
 
+## Professional Self-Assessment
+
 #### Project 1: Software Engineering and Design
 
 The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost. This is an example of my full stack capabilities.
@@ -44,4 +46,3 @@ This database project has a Python TKinter GUI that uses SQLite to communicate w
 
   <code>See the artifact's report and code <b><a href="https://github.com/victorzs78/victorzs78.github.io/new/main" title="Click me to view the artifact report">here</a></b>.</code>
 
-## Professional Self-Assessment
