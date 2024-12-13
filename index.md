@@ -22,7 +22,9 @@ I chose to use a text-based game titled “Battle at Mystery Manor Text Adventur
 
 #### Project 2: Algorithms and Data Structures
 
-This project is a Text Based Game.
+The artifact was enhanced to showcase algorithms, data structures, and software design principles. Dictionaries like "RoomGraph" store rooms and connections, while "Room" objects manage individual room details. A queue implemented with `deque` supports breadth-first search (BFS) for finding the shortest path in the game's map, demonstrating graph traversal and algorithmic thinking. A priority queue manages time-sensitive game events, adding complexity and real-time functionality. 
+
+Classes like `Room` and `RoomGraph` ensure modularity, scalability, and reusability, with methods such as `add_neighbor` and `show_item_history` providing a clear API. Additional commands were added for inventory checks, room item history, and shortest path navigation to goals like the "Library." Room connections were designed to be bidirectional for realism, and built-in structures like `deque` and `heapq` reduced unnecessary complexity. These improvements highlight proficiency in essential software development skills. 
 
 <center>
   <a href="https://github.com/victorzs78/victorzs78.github.io/new/main" title="Click me to view the artifact report">
