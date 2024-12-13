@@ -12,7 +12,7 @@ Code reviews are critical for maintaining code quality, fostering collaboration,
 
 #### Project 1: Software Engineering and Design
 
-The first artifact of this portfolio is a Text Based Game.
+I chose to use a text-based game titled “Battle at Mystery Manor Text Adventure Game”. The text-based game is an adventure-based game that contains different rooms that each contain an item. Players will need to collect every single item prior to reaching the final room to defeat the boss and win the game. The artifact was enhanced by adding several new features. First, I included brief descriptions for each room in the game to provide more context. Next, I implemented a limited inventory management system, increasing the game's difficulty by requiring players to strategize which items to keep. Additionally, I introduced new commands such as *examine* to view room descriptions, *drop* to remove an item from the inventory, and *inventory* to display all currently held items. Finally, I integrated the random module, enabling the possibility of encountering the boss before collecting all required items, which leads to losing the game.
 <center>
   <a href="https://github.com/victorzs78/ePortfolio">
   </a>
