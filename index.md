@@ -35,7 +35,9 @@ Classes like `Room` and `RoomGraph` ensure modularity, scalability, and reusabil
 
 #### Project 3: Databases
 
-This project is a Text Based Game.
+The text-based game was used again for this category. The artifact was enhanced to demonstrate effective use of a database. The `json` module was used to read and write high scores to a JSON file serving as a simple database. High score management was implemented with three functions: `load_highscores()` reads high scores or returns an empty list if the file is absent, `save_highscore(player_name, score)` adds a score, sorts the list, and saves the top 10, and `display_highscores()` prints the leaderboard when users input "highscores." Scores are saved when players win, prompting them to enter their name and moves made.
+
+The modular design of classes like `Room` and `RoomGraph` reduces interdependencies, making vulnerabilities easier to detect and address. The `Room` class uses a deque to track item history, providing an audit trail to identify unintended or malicious behavior.
 <center>
   <a href="https://github.com/victorzs78/victorzs78.github.io/new/main">
   </a>
