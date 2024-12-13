@@ -18,7 +18,7 @@ The first artifact of this portfolio is a Text Based Game.
   </a>
 </center>
   
-<code>See the artifact's report and code <a href="https://github.com/victorzs78/ePortfolio">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/victorzs78/ePortfolio/tree/main/Enhancement%20One%3A%20Software%20Design%20and%20Engineering">here</a>.</code>
 
 #### Project 2: Algorithms and Data Structures
 
