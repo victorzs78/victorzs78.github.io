@@ -19,7 +19,7 @@ The first artifact of this portfolio is a Mehanic Service Order Website, where c
   </a>
 </center>
   
-<code>See the artifact's report and code <a href="https://github.com/victorzs78/victorzs78.github.io/new/main">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/victorzs78/ePortfolio">here</a>.</code>
 
 #### Project 2: Algorithms and Data Structures
 
