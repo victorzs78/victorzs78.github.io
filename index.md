@@ -12,8 +12,7 @@ Code reviews are critical for maintaining code quality, fostering collaboration,
 
 #### Project 1: Software Engineering and Design
 
-The first artifact of this portfolio is a Mehanic Service Order Website, where customers can fill out a form with their chosen services and see the total cost. This is an example of my full stack capabilities.
-
+The first artifact of this portfolio is a Text Based Game.
 <center>
   <a href="https://github.com/victorzs78/ePortfolio">
   </a>
@@ -23,7 +22,7 @@ The first artifact of this portfolio is a Mehanic Service Order Website, where c
 
 #### Project 2: Algorithms and Data Structures
 
-This project is a vacation destination slide show that was written in Java. It displays my knowledge of Object Oriented Programming, along with the implementation of design aspects.
+This project is a Text Based Game.
 
 <center>
   <a href="https://github.com/victorzs78/victorzs78.github.io/new/main" title="Click me to view the artifact report">
@@ -34,8 +33,7 @@ This project is a vacation destination slide show that was written in Java. It d
 
 #### Project 3: Databases
 
-This database project has a Python TKinter GUI that uses SQLite to communicate with a database. Therefore, displaying my knowledge of collecting and interpreting data.
-
+This project is a Text Based Game.
 <center>
   <a href="https://github.com/victorzs78/victorzs78.github.io/new/main">
   </a>
